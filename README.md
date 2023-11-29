@@ -8,5 +8,5 @@ Services: Business Consultation, Financial Analytics, Security Services, Marketi
 
 Highlight Futures: This is a Business web application 
   
-#### Check out the live app (here) []
+#### Check out the live app (here) [ https://ram-brs.github.io/BizLand/]
 
